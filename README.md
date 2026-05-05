@@ -147,7 +147,7 @@ Source : https://www.hostinger.com/fr/tutoriels/protocole-tcp
 ```
 Notre IA                          Serveur
     |                                |
-    |-------- subscribe ------------>|  "Je m'appelle Sabri INDUSTRY"
+    |-------- subscribe ------------>|  "Je m'appelle Kroux
     |<------- ok --------------------|  "Inscription confirmée"
     |                                |
     |<------- ping ------------------|  "Tu es toujours là ?"
@@ -169,8 +169,8 @@ Configuration:
 SERVER_HOST = "IP_DU_PROF"     # Adresse IP du serveur
 SERVER_PORT = 3000              # Port du serveur
 MY_PORT     = 8888              # Port d'écoute de notre IA
-MY_NAME     = "Sabri INDUSTRY" # Nom dans le championnat
-MATRICULES  = ["24049"]         # Matricules étudiants
+MY_NAME     = "Kroux" # Nom dans le championnat
+MATRICULES  = ["24049"] ["24177]       # Matricules étudiants
 ```
 
 Pourquoi faire des tests?
